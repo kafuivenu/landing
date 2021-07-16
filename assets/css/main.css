@@ -122,6 +122,10 @@ input, select, textarea {
 			border-color: transparent;
 		}
 
+		small {
+			font-size: 75%;
+		}
+
 /* Icon */
 
 	.icon {
